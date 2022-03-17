@@ -1,0 +1,27 @@
+{
+  "name": "blog-contentful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.6.2",
+    "@contentful/rich-text-types": "^15.7.0",
+    "dotenv": "^16.0.0",
+    "gatsby": "^2.32.13",
+    "gatsby-image": "^2.2.41",
+    "gatsby-plugin-sharp": "^2.14.4",
+    "gatsby-source-contentful": "^2.1.89",
+    "gatsby-transformer-remark": "^2.6.53",
+    "gatsby-transformer-sharp": "^2.12.1",
+    "harp": "^0.41.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "sharp": "^0.29.2"
+  }
+}
